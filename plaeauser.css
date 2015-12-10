@@ -1,0 +1,39 @@
+h1{color: black;
+position: center;
+text-align: center;
+border-color: black;
+border-bottom-color: black;
+background-color: white;
+border-style: solid;
+border-top-color:white;
+border-left-color: white;
+border-right-color: white; 
+border-radius: 10px;
+margin-left: 400px;
+margin-right: 400px}
+
+.button1{width: 300px;
+height: 70px;
+margin-top: 100px;
+margin-left: 475px;
+margin-right: 400px;
+background-color: aqua;
+color: black;
+border-color: black;
+border-radius: 10px;
+position: center;
+text-align: center;
+text-decoration: underline;}
+
+.button2{width: 300px;
+height: 70px;
+margin-top: 10px;
+margin-left: 475px;
+margin-right: 400px;
+background-color: aqua;
+color: black;
+border-color: black;
+border-radius: 10px;
+position: center;
+text-align: center;
+text-decoration: underline;}

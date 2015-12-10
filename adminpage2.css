@@ -1,0 +1,33 @@
+h1 {
+    text-decoration: underline;
+    text-align: center;
+    border-style: solid;
+    border-bottom-style: solid;
+    padding: 5px;
+    border-width: 7px;
+    margin-right: 400px;
+    margin-left: 400px;
+    color: black;
+    border-color: white;
+    font-size: 40px;
+}
+h2 {
+    text-align: center;
+}
+input {
+    position: relative;
+    left: 565px;
+}
+.ProfDev {
+    position: relative;
+    left: 600px;
+}
+
+.submit1{
+    position: relative;
+    left: 605px;
+}
+.submit2 {
+    position: relative;
+    left: 605px;
+}
